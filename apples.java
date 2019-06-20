@@ -2,6 +2,7 @@ import java.util.Scanner;
 // this is the first change for git //
 // This is the second change for git through eclipse //
 // This is the first change in IntelliJ and working with GIT //
+// This is a change in IntelliJ with the GIT project //
 
 class apples {
 	public static void main(String args[]){
